@@ -33,10 +33,10 @@ to be the most secure option either.
 
 ## Post print
 ![image](img/closup_printed.JPG)
-- Detach supports on the parts that fits into chassis hole by hand
+- Detach supports on the part that fits into chassis hole by hand
 - Use pliers to detach the other supports
-- For the hole where the cable tie goes, try to fit a scalpel blade to detach it from the edges
-Then grab it with pliers, and then with an unfolded paper clip try to push it out from the hole and push it out.
+- For the hole where the cable tie goes, try to fit a scalpel blade to detach it from the edges.
+Grab it with pliers, and then with an unfolded paper clip try to push it out from the hole and push it out.
 It can be a bit laborious depending on the print.
 
 ![image](img/post_print.JPG)
