@@ -38,6 +38,7 @@ to be the most secure option either.
 - For the hole where the cable tie goes, try to fit a scalpel blade to detach it from the edges
 Then grab it with pliers, and then with an unfolded paper clip try to push it out from the hole and push it out.
 It can be a bit laborious depending on the print.
+
 ![image](img/post_print.JPG)
 
 ## Notes
